@@ -1,0 +1,60 @@
+{
+  "_from": "@tracespace/xml-id@^4.2.7",
+  "_id": "@tracespace/xml-id@4.2.7",
+  "_inBundle": false,
+  "_integrity": "sha512-4T7uAx5HB6qwKNH7jQDiij4EDe+uP+zlFcccMpZageZA5S2V2GFxm3g5lThJdTaQhp8Or4FLsmu8C/BRdYS7hg==",
+  "_location": "/@tracespace/xml-id",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@tracespace/xml-id@^4.2.7",
+    "name": "@tracespace/xml-id",
+    "escapedName": "@tracespace%2fxml-id",
+    "scope": "@tracespace",
+    "rawSpec": "^4.2.7",
+    "saveSpec": null,
+    "fetchSpec": "^4.2.7"
+  },
+  "_requiredBy": [
+    "/gerber-to-svg"
+  ],
+  "_resolved": "https://registry.npmjs.org/@tracespace/xml-id/-/xml-id-4.2.7.tgz",
+  "_shasum": "8754d7eefd58e5eba5121c3d9e6f18432c05063e",
+  "_spec": "@tracespace/xml-id@^4.2.7",
+  "_where": "/home/darshanshah/Desktop/demo_gerber/node_modules/gerber-to-svg",
+  "bugs": {
+    "url": "https://github.com/tracespace/tracespace/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Mike Cousins",
+      "email": "mike@cousins.io",
+      "url": "https://mike.cousins.io"
+    }
+  ],
+  "deprecated": false,
+  "description": "XML ID utilities for tracespace projects",
+  "gitHead": "8ecba37cf1788a7d80b856b892e683af125e0cc3",
+  "homepage": "https://github.com/tracespace/tracespace#readme",
+  "keywords": [
+    "xml",
+    "id",
+    "name",
+    "sanitize",
+    "random"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "@tracespace/xml-id",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tracespace/tracespace.git"
+  },
+  "types": "index.d.ts",
+  "version": "4.2.7"
+}

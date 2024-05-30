@@ -1,0 +1,87 @@
+{
+  "_from": "@tracespace/identify-layers",
+  "_id": "@tracespace/identify-layers@5.0.0-alpha.0",
+  "_inBundle": false,
+  "_integrity": "sha512-4cu0fB+QwVSQ+CvDzFaF7E4ixOacxinuluxY8hxE1Whzm87MwmYsUVFPaY32xARcY++meTdjbWG9Kd+DyOOA6Q==",
+  "_location": "/@tracespace/identify-layers",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@tracespace/identify-layers",
+    "name": "@tracespace/identify-layers",
+    "escapedName": "@tracespace%2fidentify-layers",
+    "scope": "@tracespace",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@tracespace/identify-layers/-/identify-layers-5.0.0-alpha.0.tgz",
+  "_shasum": "a7822a423b2783b5416aa33a5fdde6a47181825e",
+  "_spec": "@tracespace/identify-layers",
+  "_where": "/home/darshanshah/Desktop/demo_gerber",
+  "bugs": {
+    "url": "https://github.com/tracespace/tracespace/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Mike Cousins",
+      "email": "mike@cousins.io",
+      "url": "https://mike.cousins.io"
+    },
+    {
+      "name": "Kaspar Emanuel",
+      "email": "kaspar@monostable.co.uk",
+      "url": "http://monostable.co.uk"
+    },
+    {
+      "name": "David Freitag",
+      "email": "dvdfreitag@gmail.com"
+    }
+  ],
+  "deprecated": false,
+  "description": "Try to guess Gerber files' layer types based on filenames.",
+  "exports": {
+    "types": "./lib/index.d.ts",
+    "source": "./src/index.ts",
+    "import": "./dist/tracespace-identify-layers.js",
+    "require": "./dist/tracespace-identify-layers.umd.cjs"
+  },
+  "files": [
+    "dist",
+    "lib",
+    "src",
+    "!**/__tests__/**"
+  ],
+  "homepage": "https://github.com/tracespace/tracespace#readme",
+  "keywords": [
+    "pcb",
+    "gerber",
+    "excellon",
+    "circuit",
+    "hardware",
+    "electronics"
+  ],
+  "license": "MIT",
+  "name": "@tracespace/identify-layers",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tracespace/tracespace.git",
+    "directory": "packages/identify-layers"
+  },
+  "scripts": {
+    "build": "vite build"
+  },
+  "sideEffects": false,
+  "type": "module",
+  "types": "./lib/index.d.ts",
+  "version": "5.0.0-alpha.0"
+}

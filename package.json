@@ -1,0 +1,22 @@
+{
+  "name": "mygerber",
+  "version": "1.0.0",
+  "description": "gerber support",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duckk331/mygerber.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "darsh",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/duckk331/mygerber/issues"
+  },
+  "homepage": "https://github.com/duckk331/mygerber#readme"
+}
